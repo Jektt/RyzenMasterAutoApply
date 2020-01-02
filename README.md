@@ -1,5 +1,5 @@
 # RyzenMasterAutoApply
-Simple AutoHotkey script to apply **Profile1**. Put in %startup% folder to apply automatically.
+Simple AutoHotkey script to apply **Profile1**. Put in shell:startup folder to apply automatically.
 
 Edit in Notepad and edit RyzenPath if required.
 
