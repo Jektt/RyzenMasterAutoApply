@@ -17,7 +17,7 @@ SendInput {TAB 10}
 SendInput {ENTER}
 
 ; little delay here to make sure it applies before closing
-Sleep 500
+Sleep 200
 
 ; Close
 WinClose, ahk_exe AMD Ryzen Master.exe
