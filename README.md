@@ -8,7 +8,7 @@ Edit in Notepad and edit RyzenPath if required.
 ## To Autostart with Windows ##
 
 - Compile the AHK script
-- Create an [elevated shortcut](https://www.sevenforums.com/tutorials/11949-elevated-program-shortcut-without-uac-prompt-create.html)
+- Create an [Elevated Shortcut](https://www.sevenforums.com/tutorials/11949-elevated-program-shortcut-without-uac-prompt-create.html)
 - Place elevated shortcut into shell:startup.
 
 
