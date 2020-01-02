@@ -2,7 +2,7 @@
 Simple AutoHotkey script to apply **Profile1** in Ryzen Master.
 Edit in Notepad and edit RyzenPath if required.
 
-Run whenever convenient or at startup by following the instructions below.
+Run as adminstrator if required.
 
 ## To Autostart with Windows ##
 
