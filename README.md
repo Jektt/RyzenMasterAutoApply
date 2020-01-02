@@ -1,8 +1,8 @@
 # RyzenMasterAutoApply
 Simple AutoHotkey script to apply **Profile1** in Ryzen Master.
-Edit in Notepad and edit RyzenPath if required.
 
 - Install [AutoHotkey](https://www.autohotkey.com/)
+- Edit RyzenPath in script if different install path
 - Run script/compiled .exe as adminstrator if required.
 
 ## To Autostart with Windows ##
